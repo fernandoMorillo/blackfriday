@@ -6,7 +6,8 @@
     vertical-align: baseline;
     box-sizing: border-box;
     font-weight: inherit;
-    font-family: 'Comfortaa', cursive;;
+    font-family: 'Comfortaa', cursive;
+    ;
     font-style: inherit;
     /*  font-size: 100%; */
 }
@@ -14,11 +15,12 @@
 :root {
     --color-principal: #432158;
     --color-font: background: rgba(0, 0, 0, 0.53);
+    --color-secondary: #F94F22;
 }
 
 .cont-redes {
     background-color: var(--color-principal);
-    width: 145px;
+    width: 202px;
     height: 41px;
     border-radius: 20px 0 0 20px;
     display: flex;
@@ -26,16 +28,18 @@
     align-items: center;
     color: white;
 }
-h1{
+
+h1 {
     color: var(--color-principal);
     font-size: 18px !important;
     text-align: center;
     margin-top: 30px !important;
 }
 
-.container-titulo--contenido{
+.container-titulo--contenido {
     padding: 26px !important;
 }
+
 .container-titulo--btn {
     background-color: var(--color-principal) !important;
     color: #fff;
@@ -47,6 +51,7 @@ h1{
     align-items: center;
     margin: 0 auto !important;
 }
+
 .container-formulario {
     width: 90%;
     padding: 20px !important;
@@ -60,23 +65,126 @@ h1{
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-color: transparent;
 }
+
 .container-formulario button {
     background-color: var(--color-principal);
     color: #fff;
     width: 161px;
     border-radius: 20px;
 }
-.container-seleccion--parque button{
+
+.container-formulario button:hover {
+    color: #fff;
+}
+
+.container-seleccion--parque button {
     width: 194px;
     height: 50px;
     border-radius: 20px;
 }
-.container-seleccion--turbaco button{
+
+.container-seleccion--turbaco button {
     width: 194px;
     height: 50px;
     border-radius: 20px;
-    
 }
+
 h3 {
     color: var(--color-principal);
+}
+
+.container-splide {
+    margin: 0 auto !important;
+}
+
+.splide__slide {
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 10px !important;
+}
+
+.splide__slide img {
+    border-radius: 20px 20px 0px 0px;
+    height: auto;
+}
+
+.splide__slide button {
+    background-color: var(--color-principal);
+    color: #fff;
+    width: 182px;
+    height: 31px;
+    border-radius: 20px;
+}
+
+.splide__slide button:hover {
+    color: #fff;
+}
+
+#is-active-view {
+    display: none;
+}
+
+#is-active-view-afiliacion {
+    display: none;
+}
+
+.is-active-view {
+    display: inline !important;
+}
+
+.is-active-view-afiliacion {
+    display: inline !important;
+}
+
+.container-afiliaciones p {
+    width: 70%;
+}
+
+.container-afiliaciones--imagen img {
+    width: 500px;
+}
+
+.splide__slide--paraguas {
+    width: 246px;
+    height: 213px;
+}
+
+.splide__slide--gorra {
+    width: 218px;
+}
+
+.splide__slide--bolso {
+    width: 146px;
+}
+
+.splide__slide--mugs {
+    width: 206px;
+}
+
+.card {
+    width: 442px;
+}
+
+.card,
+.car2,
+img {
+    border-radius: 0px 24px 24px 0px;
+}
+
+.container-text-card {
+    padding: 15px !important;
+}
+
+.container-text-card button {
+    background-color: var(--color-secondary);
+    color: #fff;
+    width: 159px;
+    height: 31px;
+    border-radius: 20px;
+}
+
+@media only screen and(min-width: 980px) {
+    .container-formulario {
+        width: 70%;
+    }
 }

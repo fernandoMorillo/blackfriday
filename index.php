@@ -713,7 +713,7 @@
                                 <button class="mt-4">Afiliarme ahora</button>
                             </div>
 
-                            <img class="column imgplan" src="img/familia.png" alt="">
+                            <img class="column imgplan" src="img/familia.png" alt="familia amorosa">
                         </div>
                     </div>
                     <div class="column is-flex-desktop is-justify-content-center my-5-mobile">
@@ -730,7 +730,7 @@
                                 <span>Valor de $26.000 pesos</span> <br>
                                 <button class="mt-4">Afiliarme ahora</button>
                             </div>
-                            <img class="column " src="img/familia.png" alt="">
+                            <img class="column " src="img/plan_superior.jpg" alt="familia unida">
                         </div>
                     </div>
                 </div>
@@ -747,7 +747,7 @@
                         <span>Valor de $23.000 pesos</span> <br>
                         <button class="mt-4">Afiliarme ahora</button>
                     </div>
-                    <img class="column is-2-fullhd is-3-desktop" src="img/familia.png" alt="">
+                    <img class="column is-2-fullhd is-3-desktop" src="img/plan_10.jpg" alt="familia integrada">
                 </div>
             </section>
             <hr>

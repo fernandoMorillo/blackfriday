@@ -14,7 +14,7 @@
 
 :root {
     --color-principal: #432158;
-    --color-font: background: rgba(0, 0, 0, 0.53);
+    --color-font: rgba(0, 0, 0, 0.53);
     --color-secondary: #F94F22;
 }
 
@@ -62,7 +62,7 @@ h1 {
 
 .container-formulario input {
     border-radius: 20px;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
     border-color: transparent;
 }
 
@@ -99,12 +99,12 @@ h3 {
 
 .splide__slide {
     border-radius: 20px;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
     margin: 10px !important;
 }
 
 .splide__slide img {
-    border-radius: 20px 20px 0px 0px;
+    border-radius: 20px 20px 0 0;
     height: auto;
 }
 
@@ -168,7 +168,7 @@ h3 {
 .card,
 .car2,
 img {
-    border-radius: 0px 24px 24px 0px;
+    border-radius: 0 24px 24px 0;
 }
 
 .container-text-card {
@@ -182,9 +182,19 @@ img {
     height: 31px;
     border-radius: 20px;
 }
-
-@media only screen and(min-width: 980px) {
+@media only screen and (min-width: 1434px) and (max-width: 1880px) {
     .container-formulario {
-        width: 70%;
+        width: 70% !important;
+    }
+}
+
+@media  only screen and (min-width:320px) and (max-width:703px){
+    .imgplan {
+        border-radius: 0 0 24px 24px;
+        min-width: 230px;
+        min-height: 349px;
+    }
+    .card, .car2{
+        flex-direction: column;
     }
 }

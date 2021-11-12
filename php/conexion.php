@@ -1,8 +1,8 @@
 <?php
 
-$host = "localhost" /* "mysql.adolfredozuniga.com" */;
-$user = "root" /* "adolfredozunigac" */;
-$pass = "" /* "C8qkeXed" */;
-$db = "blackfriday" /* "adolfredozuniga_com" */;
+$host = "mysql.losolivoscartagena.com" /* "mysql.adolfredozuniga.com"localhost */;
+$user = "efrmar2" /* "adolfredozunigac" */;
+$pass = "C!5ZtWAG" /* "C8qkeXed" */;
+$db = "losolivosctg" /* "adolfredozuniga_com" */;
 
 $conexion = mysqli_connect($host, $user, $pass, $db);

@@ -716,9 +716,9 @@
                             <img class="column imgplan" src="img/familia.png" alt="familia amorosa">
                         </div>
                     </div>
-                    <div class="column is-flex-desktop is-justify-content-center my-5-mobile">
+                    <div class="column is-flex-desktop  my-5-mobile">
                         <div class="card  columns is-flex-touch">
-                            <div class="container-text-card is-7-fullhd is-6-desktop is-12-mobile is-12-touch column">
+                            <div class="container-text-card is-7-fullhd is-7-desktop is-12-mobile is-12-touch column">
                                 <h3 class="is-size-5-desktop has-text-weight-bold" style="color: #F94F22;">Plan 6+1
                                     integral</h3>
                                 <p class="my-4">
@@ -730,7 +730,7 @@
                                 <span>Valor de $26.000 pesos</span> <br>
                                 <button class="mt-4">Afiliarme ahora</button>
                             </div>
-                            <img class="column " src="img/plan_superior.jpg" alt="familia unida">
+                            <img class="column is-10-fullhd is-8-desktop" src="img/plan_superior.jpg" alt="familia unida">
                         </div>
                     </div>
                 </div>

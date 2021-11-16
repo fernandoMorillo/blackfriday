@@ -137,6 +137,11 @@ h3 {
     display: inline !important;
 }
 
+.container-afiliaciones {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
 .container-afiliaciones--imagen img {
     width: 500px;

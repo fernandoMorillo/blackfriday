@@ -531,7 +531,7 @@
                                     <li class="splide__slide">
                                         <img class="radius-img" src="./img/productos-servicios/mantenimiento-lote.jpg" alt="mantenimiento a lote">
                                         <div class="mt-4 px-2">
-                                            <h3 class="has-text-weight-bold mb-4">MANTENIMIENTO A LOTE</h3>
+                                            <h3 class="has-text-weight-bold mb-4">MANTENIMIENTO DE LOTE</h3>
                                             <p class="">
                                                 Precio actual: $286.000
                                             </p>
@@ -550,7 +550,7 @@
                                     <li class="splide__slide">
                                         <img class="radius-img" src="./img/productos-servicios/mantenimiento-lote-renovacion.jpg" alt="mantenimiento de tumba renovación">
                                         <div class="mt-4 px-2">
-                                            <h3 class="has-text-weight-bold mb-4">MANTENIMIENTO DE TUMBA RENOVACIÓN</h3>
+                                            <h3 class="has-text-weight-bold mb-4">MANTENIMIENTO DE LOTE RENOVACIÓN</h3>
                                             <p class="">
                                                 Precio actual: $209.000
                                             </p>

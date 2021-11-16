@@ -137,9 +137,6 @@ h3 {
     display: inline !important;
 }
 
-.container-afiliaciones p {
-    width: 70%;
-}
 
 .container-afiliaciones--imagen img {
     width: 500px;
@@ -174,6 +171,7 @@ img {
 
 .container-text-card {
     padding: 15px !important;
+    box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%), 0 0 0 1px rgb(10 10 10 / 2%);
 }
 
 .container-text-card button {

@@ -55,6 +55,9 @@ new Splide('.splide4', {
         640: {
             perPage: 1
         },
+        568: {
+            perPage: 1
+        }
     },
 
 }).mount();

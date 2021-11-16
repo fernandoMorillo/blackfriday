@@ -43,9 +43,8 @@
     <div class="columns mt-6 is-justify-content-center">
         <div class="column container-titulo is-5-desktop">
             <h1 class="has-text-weight-bold is-size-2-desktop">Black friday Olivos Cartagena</h1>
-            <p class="container-titulo--contenido">
-                Sé participe del evento más esperado por todos. En el que pretendemos rendir un trubuto a tu ser querido y también brindarte
-                una protección completa con nuestros planes exequiales para evitarte gastos futuro
+            <p class="container-titulo--contenido is-size-5-desktop">
+                Sé participe del evento más esperado por todos. En el que pretendemos rendir un tributo a tu ser querido y también brindarte la tranquilidad y el respaldo de nuestros planes de previsión integral.
             </p>
 
         </div>
@@ -359,18 +358,18 @@
                             <div class="splide__track">
                                 <ul class="splide__list">
                                     <li class="splide__slide">
-                                        <img class="radius-img" src="./img/productos-servicios/arriendo-4-anos.jpg" alt="arriendo vencido por 4 ano">
+                                        <img class="radius-img" src="./img/productos-servicios/exhumacion-particular+caja-de-restos.jpg" alt="exhumacion particular mas caja de restos">
                                         <div class="mt-4 px-2">
-                                            <h3 class="has-text-weight-bold mb-4">ARRIENDO VENCIDO POR 4 AÑOS</h3>
+                                            <h3 class="has-text-weight-bold mb-4">EXHUMACIÓN PARTICULAR + CAJA DE RESTOS</h3>
                                             <p class="">
-                                                Precio actual: $3.880.000
+                                                Precio actual: $895.000
                                             </p>
                                             <p class="is-size-6-mobile has-text-weight-bold mb-3">
-                                                Precio descuento: $1.164.000
+                                                Precio descuento: $447.500
                                             </p>
                                             <div class="field is-grouped is-justify-content-center my-4">
                                                 <div class="control">
-                                                    <a href="https://www.portal.losolivoscartagena.com/tienda/producto/PPCO0029-arriendos-vencidos-x-6-meses">
+                                                    <a href="https://www.portal.losolivoscartagena.com/tienda/producto/PPCO0017-exhumacion-+-caja-de-restos">
                                                      <button class="button">ver más</button>
                                                     </a>
                                                 </div>
@@ -378,75 +377,18 @@
                                         </div>
                                     </li>
                                     <li class="splide__slide">
-                                        <img class="radius-img" src="./img/productos-servicios/arriendo-3-anos.jpg" alt="arriendo vencido por 3 anos">
+                                        <img class="radius-img" src="./img/productos-servicios/exhumacion-PFG-paquete-olivos.jpg" alt="arriendo vencido por 3 anos">
                                         <div class="mt-4 px-2">
-                                            <h3 class="has-text-weight-bold mb-4">ARRIENDO VENCIDO POR 3 AÑOS</h3>
+                                            <h3 class="has-text-weight-bold mb-4">EXHUMACIÓN PFG PAQUETE OLIVOS</h3>
                                             <p class="">
-                                                Precio actual: $2.910.000
+                                                Precio actual: $550.000
                                             </p>
                                             <p class="is-size-6-mobile has-text-weight-bold mb-3">
-                                                Precio descuento: $873.000
+                                                Precio descuento: $385.000
                                             </p>
                                             <div class="field is-grouped is-justify-content-center my-4">
                                                 <div class="control">
-                                                    <a href="https://www.portal.losolivoscartagena.com/tienda/producto/PPCO0029-arriendos-vencidos-x-6-meses">
-                                                        <button class="button">ver más</button>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li class="splide__slide">
-                                        <img class="radius-img" src="./img/productos-servicios/arriendo-2-anos.jpg" alt="arriendo vencido por 2 anos">
-                                        <div class="mt-4 px-2">
-                                            <h3 class="has-text-weight-bold mb-4">ARRIENDO VENCIDO POR 2 AÑOS</h3>
-                                            <p class="">
-                                                Precio actual: $1.940.000
-                                            </p>
-                                            <p class="is-size-6-mobile has-text-weight-bold mb-3">
-                                                Precio descuento: $582.000
-                                            </p>
-                                            <div class="field is-grouped is-justify-content-center my-4">
-                                                <div class="control">
-                                                    <a href="https://www.portal.losolivoscartagena.com/tienda/producto/PPCO0029-arriendos-vencidos-x-6-meses">
-                                                         <button class="button">ver más</button>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li class="splide__slide">
-                                        <img class="radius-img" src="./img/productos-servicios/arriendo-1-ano.jpg" alt="arriendo vencido por 1 ano">
-                                        <div class="mt-4 px-2">
-                                            <h3 class="has-text-weight-bold mb-4">ARRIENDO VENCIDO POR 1 AÑO</h3>
-                                            <p class="">
-                                                Precio actual: $970.000
-                                            </p>
-                                            <p class="is-size-6-mobile has-text-weight-bold mb-3">
-                                                Precio descuento: $291.000
-                                            </p>
-                                            <div class="field is-grouped is-justify-content-center my-4">
-                                                <div class="control">
-                                                    <a href="https://www.portal.losolivoscartagena.com/tienda/producto/PPCO0029-arriendos-vencidos-x-6-meses">
-                                                        <button class="button">ver más</button>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li class="splide__slide">
-                                        <img class="radius-img" src="./img/productos-servicios/arriendo-6-meses.jpg" alt="arriendo vencido por 6 meses">
-                                        <div class="mt-4 px-2">
-                                            <h3 class="has-text-weight-bold mb-4">ARRIENDO VENCIDO POR 6 MESES</h3>
-                                            <p class="">
-                                                Precio actual: $490.000
-                                            </p>
-                                            <p class="is-size-6-mobile has-text-weight-bold mb-3">
-                                                Precio descuento: $147.000
-                                            </p>
-                                            <div class="field is-grouped is-justify-content-center my-4">
-                                                <div class="control">
-                                                    <a href="https://www.portal.losolivoscartagena.com/tienda/producto/PPCO0029-arriendos-vencidos-x-6-meses">
+                                                    <a href="https://www.portal.losolivoscartagena.com/tienda/producto/PPCO0018-exhumacion-pfg-paquete-olivos">
                                                         <button class="button">ver más</button>
                                                     </a>
                                                 </div>
@@ -657,10 +599,12 @@
     <section id="is-active-view-afiliacion">
         <section>
             <div class="columns mb-6">
-                <div class="column container-afiliaciones is-flex is-justify-content-center mt-6">
-                    <p class="">
-                        Afilíate y participa en el premio de los más de <span style="font-weight:bold">20 bonos</span>
-                        que tenemos disponibles con cupos desde $30.000 hasta $200.000 mil pesos y souvenirs
+                <div class="column container-afiliaciones has-text-centered mt-6">
+                    <p class="is-size-4-desktop">
+                        Participa en el premio de los muchos <b class="has-text-weight-bold">bonos</b>  que tenemos disponibles y algunos souvenirs.
+                    </p><br>
+                    <p class="is-size-4-desktop">
+                        Para ganar, solo debes afiliarte. Tu número de contrato será el código con el que participarás.
                     </p>
                 </div>
             </div>
@@ -676,16 +620,16 @@
                         <div class="splide__track">
                             <ul class="splide__list">
                                 <li class="splide__slide" style="border-radius: 0; box-shadow:none">
-                                    <img class="splide__slide--paraguas" src="./img/paraguas.png" alt="">
+                                    <img class="splide__slide--paraguas" src="./img/paraguas.png" alt="paraguas olivos">
                                 </li>
                                 <li class="splide__slide" style="border-radius: 0; box-shadow:none">
-                                    <img class="splide__slide--gorra" src="./img/gorra.png" alt="">
+                                    <img class="splide__slide--gorra" src="./img/gorra.png" alt="gorra olivos">
                                 </li>
                                 <li class="splide__slide" style="border-radius: 0; box-shadow:none">
-                                    <img class="splide__slide--bolso" src="./img/bolso.png" alt="">
+                                    <img class="splide__slide--bolso" src="./img/bolso.png" alt="bolso olivos">
                                 </li>
                                 <li class="splide__slide" style="border-radius: 0; box-shadow:none">
-                                    <img class="splide__slide--mugs" src="./img/mugs.png" alt="">
+                                    <img class="splide__slide--mugs" src="./img/mugs.png" alt="mugs olivos">
                                 </li>
                             </ul>
                         </div>
@@ -698,10 +642,10 @@
                         <h4 class="is-size-2-desktop has-text-weight-bold has-text-centered">Nuestros planes</h4>
                     </div>
                 </div>
-                <div class="columns mt-6" style="margin: 0 auto !important">
-                    <div class="column is-flex-desktop is-justify-content-center">
+                <div class="columns mt-6 is-justify-content-center" style="margin: 0 auto !important; column-gap: 101px;">
+                    <div class="column is-flex-desktop is-justify-content-center is-5-desktop">
                         <div class="card  columns is-flex-mobile">
-                            <div class="container-text-card is-7-fullhd is-6-desktop is-12-mobile is-12-mobile column">
+                            <div class="container-text-card is-7-fullhd is-6-desktop is-12-mobile column">
                                 <h3 class="is-size-5-desktop has-text-weight-bold" style="color: #F94F22;">Plan 6+1 sin
                                     destino final</h3>
                                 <p class="my-4">
@@ -710,13 +654,16 @@
                                     menore a 60 años. No incluye destino final
                                 </p>
                                 <span>Valor de $18.000 pesos</span> <br>
-                                <button class="mt-4">Afiliarme ahora</button>
+                                <a href="https://www.portal.losolivoscartagena.com/afiliacion-en-linea">
+                                    <button class="mt-4">Afiliarme ahora</button>
+                                </a>
+
                             </div>
 
-                            <img class="column imgplan" src="img/familia.png" alt="familia amorosa">
+                            <img class=" imgplan" src="img/plan6+1.jpg" alt="familia amorosa">
                         </div>
                     </div>
-                    <div class="column is-flex-desktop  my-5-mobile">
+                    <div class="column is-flex-desktop  my-5-mobile is-5-desktop">
                         <div class="card  columns is-flex-touch">
                             <div class="container-text-card is-7-fullhd is-7-desktop is-12-mobile is-12-touch column">
                                 <h3 class="is-size-5-desktop has-text-weight-bold" style="color: #F94F22;">Plan 6+1
@@ -728,26 +675,34 @@
                                     Olivos.
                                 </p>
                                 <span>Valor de $26.000 pesos</span> <br>
-                                <button class="mt-4">Afiliarme ahora</button>
+                                <a href="https://www.portal.losolivoscartagena.com/afiliacion-en-linea">
+                                    <button class="mt-4">Afiliarme ahora</button>
+                                </a>
+
                             </div>
-                            <img class="column is-10-fullhd is-8-desktop" src="img/plan_superior.jpg" alt="familia unida">
+                            <img class="imgplan is-10-fullhd is-8-desktop" src="img/plan6+1integral.jpg" alt="familia unida">
                         </div>
                     </div>
                 </div>
 
-                <div class="columns car2 is-mobile is-flex-mobile is-justify-content-center mt-6 is-block-mobile">
-                    <div class="column is-4-desktop is-7-tablet is-12-mobile container-text-card">
-                        <h3 class="is-size-5-desktop has-text-weight-bold" style="color: #F94F22;">Plan fraternal</h3>
-                        <p class="my-4">
-                            Titular menor a 65 añoss
-                            Incluye todo lo relacionado con el homenaje puede vincular su primer lazo de consanguinidad,
-                            esposa, cualquier número de hijos, padres. Incluye destino final y nicho a perpetuidad en
-                            nuestro parque cementerio Jardín los Olivos.
-                        </p>
-                        <span>Valor de $23.000 pesos</span> <br>
-                        <button class="mt-4">Afiliarme ahora</button>
+                <div class="column is-flex-desktop is-justify-content-center my-5">
+                    <div class="card  columns is-flex-touch">
+                        <div class="container-text-card is-7-fullhd is-7-desktop is-12-mobile is-12-touch column">
+                            <h3 class="is-size-5-desktop has-text-weight-bold" style="color: #F94F22;">Plan fraternal</h3>
+                            <p class="my-4">
+                                Titular menor a 65 añoss
+                                Incluye todo lo relacionado con el homenaje puede vincular su primer lazo de consanguinidad,
+                                esposa, cualquier número de hijos, padres. Incluye destino final y nicho a perpetuidad en
+                                nuestro parque cementerio Jardín los Olivos.
+                            </p>
+                            <span>Valor de $23.000 pesos</span> <br>
+                            <a href="https://www.portal.losolivoscartagena.com/afiliacion-en-linea">
+                                <button class="mt-4">Afiliarme ahora</button>
+                            </a>
+
+                        </div>
+                        <img class="imgplan is-10-fullhd is-8-desktop" src="img/plan+fraternal.jpg" alt="familia integrada">
                     </div>
-                    <img class="column is-2-fullhd is-3-desktop" src="img/plan_10.jpg" alt="familia integrada">
                 </div>
             </section>
             <hr>
